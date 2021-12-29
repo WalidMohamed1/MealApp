@@ -1,5 +1,5 @@
 # Meal App
-A Flutter project to explore recipes then find your meals as you like, for example, lactose-free meals, and you can also add your favorite meals.
+A Flutter project that help you to explore recipes then find your meals as you like, for example, lactose-free meals, and you can also add your favorite meals.
  
  # Specification
  <ul>
